@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Embedded C/4. Interrupts/16. Interrupts Part-1.md",
+            "file": "2. ARM Cortex-M/6. Exception Model.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "synchro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355
+    "width": 365
   },
   "right": {
     "id": "71e47227c0141830",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Embedded C/4. Interrupts/16. Interrupts Part-1.md",
+                "file": "2. ARM Cortex-M/6. Exception Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "7a7ba3d013c5bb71",
   "lastOpenFiles": [
-    "1. Embedded C/4. Interrupts/16. Interrupts Part-1.md",
-    "1. Embedded C/3. Processor Startup/15. Startup Code Part-3.md",
-    "1. Embedded C/3. Processor Startup/14. Startup Code Part-2.md",
-    "1. Embedded C/3. Processor Startup/13. Startup Code Part-1.md",
+    "2. ARM Cortex-M/6. Exception Model.md",
+    "2. ARM Cortex-M/5. Stack.md",
+    "2. ARM Cortex-M/4. Memory Map.md",
+    "2. ARM Cortex-M/3. Access Level.md",
+    "2. ARM Cortex-M/2. Operational Modes.md",
     "1. Embedded C/4. Interrupts/18. Interrupts Part-3.md",
-    "1. Embedded C/4. Interrupts/17. Interrupts Part-2.md",
-    "1. Embedded C/4. Interrupts/20. Race Conditions.md",
-    "1. Embedded C/1. Fundamentals/4. Blinking LED.md",
-    "1. Embedded C/1. Fundamentals/1. Counting.md",
-    "1. Embedded C/2. Intermediate Concepts/12. Structure and CMSIS.md"
+    "2. ARM Cortex-M/1. Introduction.md",
+    "2. ARM Cortex-M/0. Beginnings.md",
+    "1. Embedded C/3. Processor Startup/13. Startup Code Part-1.md",
+    "1. Embedded C/4. Interrupts/16. Interrupts Part-1.md"
   ]
 }
